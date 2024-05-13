@@ -1,6 +1,6 @@
 # DICTIONARY API
 
-## URL Demo: https://crissswat.github.io/pokeApi/
+## URL Demo: https://crissswat.github.io/dictionary/
 ## ![Screenshot_1](https://github.com/CrissSWAT/dictionary/assets/32597254/fed978b2-3727-4a6a-a103-cc4b53f08fc3)
 
 
